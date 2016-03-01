@@ -43,7 +43,7 @@ public class InvestmentsReport
 
 		System.out.println ();
 		System.out.println ();
-		System.out.println ("\t       Martha Stockton Greengage Foundation");
+		System.out.println ("\t      Hello: Martha Stockton Greengage Foundation");
 		System.out.println ("\t                 INVESTMENT REPORT\n");
 	    }
 
